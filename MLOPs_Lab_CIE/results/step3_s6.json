@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "econpulse-inflation-index-predictor",
+  "version": 1,
+  "run_id": "c96f413f716e4db0891cfaeaba226329",
+  "source_metric": "mae",
+  "source_metric_value": 1.15966
+}

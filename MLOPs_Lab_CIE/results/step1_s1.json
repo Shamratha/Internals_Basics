@@ -1,0 +1,20 @@
+{
+  "experiment_name": "econpulse-inflation-index",
+  "models": [
+    {
+      "name": "Ridge",
+      "mae": 0.796984,
+      "rmse": 0.880727,
+      "r2": 0.849111
+    },
+    {
+      "name": "RandomForest",
+      "mae": 1.12338,
+      "rmse": 1.305998,
+      "r2": 0.668213
+    }
+  ],
+  "best_model": "Ridge",
+  "best_metric_name": "mae",
+  "best_metric_value": 0.796984
+}
